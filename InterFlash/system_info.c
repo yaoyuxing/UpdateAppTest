@@ -33,7 +33,7 @@
 #define  BOOT_SYS_INFO_SIZE                 BOOT_LOADER_SYS_INFO_SIZE                // (gstSystemInfo.unBtLoaderSysInfoSize) //10// BOOT_LOADER_SYS_INFO_SIZE 
 #define  SYS_INFO_CTRL_STRUCT_SIZE         (sizeof(stSystemInformationType))         //控制结构体大小
 #define  UNSIGNED_INT_VAL_MAX              (0xffffffff)//(-1)                        //加1为0
-#define  NOT_FIRST_TIMES_FLAG_VAL          (0x1342)
+#define  NOT_FIRST_TIMES_FLAG_VAL          (0x123456)
 #define  APP_SYS_INFO_DEFAULT_SIZE         (4)
  
 

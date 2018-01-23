@@ -3,7 +3,7 @@
  
 //#define INTER_FLASH_TEST
 
-#define  APP_SIZE_MAX              (768*1024/2)
+#define  APP_SIZE_MAX              (768*1024)
 #define  BOOT_LOADER_SIZE_MAX      (128*1024)
 #define  NV_SIZE_MAX               (128*1024)
 #define  INTER_FLASH_BASE          (0X08000000)
